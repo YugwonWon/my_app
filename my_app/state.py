@@ -2,7 +2,7 @@ import os
 import openai
 import reflex as rx
 
-openai.api_key = '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'
+openai.api_key = 'apikey'
 
 class State(rx.State):
 
